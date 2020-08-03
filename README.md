@@ -1,2 +1,2 @@
 # spring-di
-Dependency Inversion sample app.
+Dependency Injection sample app.
